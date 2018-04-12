@@ -1,5 +1,5 @@
-# Project Boilerplate
-This is the project boilerplate which will get you started. For any questions regarding the stack, please use our [#help](https://chasacademy.slack.com/messages/C61J8A678/#help) channel in Slack.
+# Worth it!
+This is the group Mercury's project, Worth it!
 
 Table of contents
 =================
@@ -23,8 +23,8 @@ Table of contents
 
 **NOTE**: The `api` and `client` folders are in fact separate repositories (git submodules):
 
-- Backend: [https://github.com/chas-academy/project-api-boilerplate](https://github.com/chas-academy/project-api-boilerplate)
-- Frontend: [https://github.com/chas-academy/project-app-boilerplate](https://github.com/chas-academy/project-app-boilerplate)
+- Backend: [https://github.com/chas-academy/mercury-api](https://github.com/chas-academy/mercury-api)
+- Frontend: [https://github.com/chas-academy/mercury-client](https://github.com/chas-academy/mercury-client)
 
 This means when making changes to either you need to commit and push in the separate repositories.
 
